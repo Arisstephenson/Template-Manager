@@ -48,3 +48,7 @@ Example: 200
 Upcoming features:
 * Option to save/load script templates so they can persist between unity versions.
 * Prompt to restart unity after template deletion/addition to update changes.
+
+
+Feedback:
+Suggestions are welcome as well as pull requests, issues, etc.
