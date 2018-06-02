@@ -45,4 +45,6 @@ Example: 200
 
 ![alt text](https://github.com/Arisstephenson/Template-Manager/blob/master/Assets/Template%20Manager/Resources/ExampleSettings2.png "Example 1")
 
-
+Upcoming features:
+* Option to save/load script templates so they can persist between unity versions.
+* Prompt to restart unity after template deletion/addition to update changes.
